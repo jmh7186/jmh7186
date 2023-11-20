@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Jo%20MinHyeok&height=250&&color=0:E55D87,100:5FC3E4&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Jo%20MinHyeok&height=250&&color=0:E55D87,100:5FC3E4&fontAlignY=40&desc=Web%20Developer&descAlign=66)
 
 ## スキル
 `JUnit`
