@@ -21,3 +21,5 @@
 ## 資格
 - 情報処理産業技師
 - JLPT N2
+
+<img src="https://raw.githubusercontent.com/jmh7186/github-stats-transparent/output/generated/languages.svg">
