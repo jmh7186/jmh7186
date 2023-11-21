@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Jo%20MinHyeok&height=250&&color=0:E55D87,100:5FC3E4&fontAlignY=40&desc=Web%20Developer&descAlign=66)
 
-# <a href="https://github.com/jmh7186/Spring-Personal-Project">フォットポリオ</a>
+# <a href="https://github.com/jmh7186/Spring-Personal-Project">ポートフォリオ</a>
 
 ## スキル
 `JUnit`
